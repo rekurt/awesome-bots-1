@@ -400,6 +400,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 * [Probot](https://probot.github.io/) - SDK for building bots around GitHub workflows
 * [wayback](https://github.com/wabarc/wayback) - An easier way to interact with several bots for wayback webpage
+* [Yandex Messenger Go SDK](https://github.com/rekurt/ymsdk) - Go client for Yandex Messenger Bot API with typed models, retries, rate-limit handling, polling, and webhooks.
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
